@@ -4,5 +4,6 @@ public class Main {
         Test1 test1=new Test1();
         test1.print();
         Test2.say();
+        Test3.getNum();
     }
 }
