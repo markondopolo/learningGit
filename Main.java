@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello!");
         Test1 test1=new Test1();
         test1.print();
+        Test2.say();
     }
 }
